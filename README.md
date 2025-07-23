@@ -8,6 +8,6 @@ Compound Harvester is a Python-based tool designed to download and merge compoun
 - 🧩 Easy to integrate into cheminformatics pipelines
 
 # 👨‍🔬 Author
-Sayed Muhammad Mehdi Shah
+**Sayed Muhammad Mehdi Shah**
 Bioinformatics Researcher | Python Developer
-Feel free to connect for collaboration or suggestions.
+- Feel free to connect for collaboration or suggestions.
