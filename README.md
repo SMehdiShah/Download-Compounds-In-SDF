@@ -9,5 +9,5 @@ Compound Harvester is a Python-based tool designed to download and merge compoun
 
 # 👨‍🔬 Author
 **Sayed Muhammad Mehdi Shah**
-Bioinformatics Researcher | Python Developer
+- Bioinformatics Researcher | Python Developer
 - Feel free to connect for collaboration or suggestions.
